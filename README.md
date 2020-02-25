@@ -10,3 +10,4 @@ Additionaly, you are able to access up to two specific keywords necessary for th
 ### Generating Word Clouds on R
 
 I am adding a visualization element to this code, in the form of <i>wordclouds</i>. The libraries this code uses are <b>wordcloud, tm</b> and <b> RColorBrewer </b>. This is a very basic example of the kind of visualization you can gain from the data generated in the scrapper. Will try to update using the <b>wordcloud2</b> library for better graphics. 
+
